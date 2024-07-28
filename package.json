@@ -1,0 +1,26 @@
+{
+  "name": "upgraded-spork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nizarambara/upgraded-spork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nizarambara/upgraded-spork/issues"
+  },
+  "homepage": "https://github.com/nizarambara/upgraded-spork#readme",
+  "dependencies": {
+    "@indahsybla/menghitung-data-siswa": "^1.0.0",
+    "@nizarambr/teanxinx": "^1.0.0",
+    "acak-nama-murid": "^1.0.0",
+    "kalkulator-kehidupan": "^1.0.1",
+    "sistem-absensi-murid": "^1.0.0"
+  }
+}
